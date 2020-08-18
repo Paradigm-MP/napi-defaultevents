@@ -1,2 +1,2 @@
-# napi-defaultevents
-NAPI module for default game events
+# oof-defaultevents
+OOF module for default game events
